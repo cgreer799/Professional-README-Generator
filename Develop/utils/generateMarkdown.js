@@ -82,9 +82,17 @@ function generateMarkdown(data) {
   ## Installation
 
   ${data.installation}
+
+  ## Usage
+
+  ${data.usage}
+
+  ## Credits
+  
+  ${data.credits}
   
   ## License
-  
+
   ${renderLicenseSection(data.license)}
   ${renderLicenseLink(data.license)}
 
