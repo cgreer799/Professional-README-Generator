@@ -20,7 +20,34 @@ const questions = [
         type: 'input',
         name: 'installation',
         message: 'Please provide a step-by-step description of how to install your project.',
+    },
+    {
+        
+        type: 'input',
+        name: 'usage',
+        message: 'Please provide instructions and examples on how to use your project.'
+    },
+    {
+        type: 'input',
+        name: 'Credits',
+        message: 'Please provide credit to any collaborators, third-party assets, tutorials, and any other outside resources.'
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'What is the license for this project?',
+        choices: [
+            'None',
+            'Apache License 2.0',
+            'Eclipse Public License 1.0',
+            'GNU General Public License v3.0',
+            'Mozilla License',
+            'MIT License',
+            'The Unlicense'
+        ]
+    
     }
+
 
 ];
 
