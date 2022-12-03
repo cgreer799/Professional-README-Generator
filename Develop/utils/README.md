@@ -30,7 +30,7 @@
   
   ## License
 
-  This project is licensed under the MIT License. To learn more about this license, use the link provided below:
+  This project is licensed under the MIT License. Use the link provided below to learn more about this license:
     
   https://opensource.org/licenses/MIT
 
@@ -44,7 +44,7 @@
 
   ## Questions
 
-  For more of my projects, please refer to my GitHub page:[GitHubusername](https://github.com/GitHubusername/). For any questions, please contact me at email@gmail.com.
+  For more of my projects, please refer to my GitHub page: [GitHubusername](https://github.com/GitHubusername/). For any questions, please contact me at email@gmail.com.
 
 
 
