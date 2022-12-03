@@ -46,9 +46,27 @@ const questions = [
             'The Unlicense'
         ]
     
+    },
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'Please provide guidelines for how to contribute to this project?',
+    },
+    {
+        type: 'input',
+        name: 'tests',
+        message: 'Please provide a step-by-step description of how to run tests for your project.',
+    },
+    {
+        type: 'input',
+        name: 'github',
+        message: 'Please provide a your GitHub user name.',
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Please provide your contact email address.',
     }
-
-
 ];
 
 // TODO: Create a function to write README file

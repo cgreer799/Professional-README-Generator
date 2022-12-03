@@ -88,13 +88,26 @@ function generateMarkdown(data) {
   ${data.usage}
 
   ## Credits
-  
+
   ${data.credits}
   
   ## License
 
   ${renderLicenseSection(data.license)}
   ${renderLicenseLink(data.license)}
+
+  ## Contributing
+
+  ${data.contributing}
+
+  ## Tests
+
+  ${data.tests}
+
+  ## Questions
+
+  For more of my projects, please refer to my GitHub page:[${data.github}](https://github.com/${data.github}/). For any questions, please contact me at ${data.email}.
+
 
 
 `;
