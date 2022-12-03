@@ -4,7 +4,7 @@
 
   ## Description
 
-  Description of Project
+  Description of project.
 
   ## Table of Contents
 
@@ -22,11 +22,11 @@
 
   ## Usage
 
-  Open terminal. Run 'node index.js'. Answer prompted questions to generate readme.
+  Open terminal. Run 'node index.js'. Answer prompted questions to generate readm
 
   ## Credits
   
-  undefined
+  Credit to https://github.com/Ileriayo/markdown-badges.
   
   ## License
 

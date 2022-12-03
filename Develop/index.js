@@ -29,7 +29,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'Credits',
+        name: 'credits',
         message: 'Please provide credit to any collaborators, third-party assets, tutorials, and any other outside resources.'
     },
     {
