@@ -1,10 +1,10 @@
-# Project Title
+# title
 
   ![License: MIT License](https://img.shields.io/badge/License-MIT-yellow)
 
   ## Description
 
-  Description of project
+  project description
 
   ## Table of Contents
 
@@ -18,15 +18,15 @@
    
   ## Installation
 
-  To install run 'npm prg' in the terminal.
+  steps
 
   ## Usage
 
-  Open terminal. Run 'node index.js'. Answer prompted questions to generate readme.
+  instructions
 
   ## Credits
 
-  Credit to https://shields.io/ and https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide.
+  credit
   
   ## License
 
@@ -36,15 +36,15 @@
 
   ## Contributing
 
-  If your wish to contribute, please follow the Contributor Covenant Code of Conduct. Follow the link to view the Contributor Covenant Code of Conduct: https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md
+  guidelines
 
   ## Tests
 
-  To run a test of the project, run './test test' in the terminal.
+  description
 
   ## Questions
 
-  For more of my projects, please refer to my GitHub page: [GitHubusername](https://github.com/GitHubusername/). For any questions, please contact me at email@gmail.com.
+  For more of my projects, please refer to my GitHub page: [username](https://github.com/username/). For any questions, please contact me at email.
 
 
 
